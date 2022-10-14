@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">Hi I'm Julien 👋</h1>
+<h3 align="left">Welcome to my profile! I'm a dedicated Full Stack developer, doing some blockchain development on Elrond Network.</h3>
 
-<!--
-**therealmasterj/therealmasterj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/therealmasterj/therealmasterj">
+    <img src="https://komarev.com/ghpvc/?username=therealmasterj" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://github.com/therealmasterj?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/therealmasterj?color=green&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: &nbsp;I'm currently working at **Morningstar Ventures** as a smart contract developer
+- :seedling: &nbsp;I’m currently learning **Cairo** language and exploring the **StarkNet Ecosystem**
+ 
